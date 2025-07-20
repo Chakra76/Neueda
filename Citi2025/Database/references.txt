@@ -1,0 +1,9 @@
+--Student Website
+https://neueda-training.atlassian.net/wiki/spaces/neuedainst/pages/306610206/Citi+2025+Summer+Graduate+Training+Program#Student-Web-Sites
+
+
+--URL to check VM status
+https://student.neueda.com/
+
+--URL to access/open VM
+https://web<vmname>.neueda.com/
