@@ -7,3 +7,13 @@ https://student.neueda.com/
 
 --URL to access/open VM
 https://web<vmname>.neueda.com/
+
+--Username/password for connecting to your VMs - Virtual Machine
+Username - administrator
+Password - n3u3da!
+
+--Username/password to access recordings
+Username - student
+Password - Belfast2024
+
+
