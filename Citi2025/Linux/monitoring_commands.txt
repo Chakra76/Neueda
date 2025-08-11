@@ -1,0 +1,41 @@
+#1. process listing and details
+#-ef - list all process in full format(output)
+
+ps -ef
+
+#filter out only process related to an user, for example user1
+
+ps -ef | grep -i user1
+
+
+#2. to list top cpu consuming processes
+#to exit the screen which keeps refreshing the top processes
+#press "q"
+
+top
+
+
+#3. to list the current memory usage of the node/server
+# can use options such as -m, -g to display the output
+#in MB, GB
+
+free
+
+free -m
+
+free -g
+
+#4. To list the storage space utilized across all devices/filesystems
+#in the node/vm/server
+# -h display the output in human readable format
+
+df -h
+
+#5. To list the space utilized by the current folder and its contents
+# -h display the output in human readable format
+# -s gives the summary of space used
+
+du -h
+
+du -sh
+
